@@ -1,0 +1,12 @@
+For the generator you can generate your own codes:
+
+https://www.qrcode-monkey.com/
+
+Train your own 52 codes from here
+
+If you are working with Raspberry Pi Microcomputers, than you have to follow this tutorial:
+
+https://github.com/rijinmk/code-qr-code-reader-rpi3
+
+
+Note: But this tutorial depends on use of webcam. You can change your code accordingly.
